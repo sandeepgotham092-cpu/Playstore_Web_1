@@ -7,7 +7,10 @@ Built with the Next.js App, Node.js, Router, TypeScript, CSS
 * Full Search functionality
 * ... and much more
 ## Getting started
-To get started with this project, run 
+To get started with this project Download the code in your local mechine <br>
+run these commands <br>
+For Back end: <br>
 ```
-  git clone -b starter-code https://github.com/joschan21/Playstore_Web_1.git
+cd backend
+npm install
 ```
