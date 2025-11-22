@@ -52,6 +52,12 @@ Home page: <br>
 Tops Apps: <br>
 <img width="500" height="642" alt="Screenshot 2025-11-22 091010" src="https://github.com/user-attachments/assets/09c9666e-54bf-4650-8bd7-c6cfc66c2a28" /> <br>
 All Apps: <br>
-<img width="500" height="915" alt="Screenshot 2025-11-22 091035" src="https://github.com/user-attachments/assets/36aad2f5-7eed-415f-844f-6ab589d15781" /> <br>
+<img width="500" height="915" alt="Screenshot 2025-11-22 091035" src="https://github.com/user-attachments/assets/36aad2f5-7eed-415f-844f-6ab589d15781" /> <br> <br>
+<img width="500" height="2800" alt="sQWgonIEt7tcompres" src="https://github.com/user-attachments/assets/3deb5d0c-2ad0-4050-bb89-92e35d4ed210" /> <br> <br>
+
+
+<img width="500" height="2800" alt="JL1kNS9BYBn" src="https://github.com/user-attachments/assets/24f1e736-5754-4aea-baee-17c2870d9656" />
+
+
 Exit: Ctr+c
 
