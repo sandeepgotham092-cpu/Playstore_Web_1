@@ -36,7 +36,7 @@ Run Backend: <br>
 from root Directory
 ```
 cd backend
-npm start
+npm run server
 ```
 Run Frontend: <br>
 from root Directory
